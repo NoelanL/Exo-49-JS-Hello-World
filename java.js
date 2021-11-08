@@ -1,0 +1,1 @@
+alert("Comment il va l'utilisateur ?");
